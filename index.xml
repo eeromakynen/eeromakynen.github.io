@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Eero Mäkynen</title>
+    <link>https://eeromakynen.github.io/</link>
+    <description>Recent content in Home on Eero Mäkynen</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://eeromakynen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://eeromakynen.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eeromakynen.github.io/research/</guid>
+      <description>Working Papers Economic Growth through Worker Reallocation: The Role of Knowledge Spillovers Abstract  An establishment can improve its productivity by hiring workers from more productive establishments. Then, how important is worker reallocation for aggregate productivity growth? To study this question, I develop a general equilibrium model where knowledge transmits as workers reallocate from one job to another. The calibrated model suggests that the knowledge diffusion mechanism increases the aggregate productivity growth by 0.</description>
+    </item>
+    
+  </channel>
+</rss>
